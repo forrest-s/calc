@@ -1,0 +1,4 @@
+[package]
+name = "terminal-calculator"
+version = "0.1.0"
+authors = ["Forrest S<thewanderingwolves@gmail.com>"]
